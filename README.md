@@ -1,0 +1,3 @@
+Technophobe, broken code aficionado and fryer of microcontrollers.
+
+I've been called _hacker_ by [my professor](https://github.com/vanDeventer). He doesn't like hackers...
